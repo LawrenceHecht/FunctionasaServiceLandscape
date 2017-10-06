@@ -3,7 +3,7 @@ FaaS Landscape
 
 From open source projects to commercial software, we hope our landscape sheds light on the offerings and provides clarity on how they interrelate.  
 
-We identified over 50 FaaS solutions within the ecosystem. The vast majority are open source and many are supported by a pre-existing business like Platform9’s Fission. As the market matures we expect to see an increasing number of enterprise-grade offerings beyond FaaS platforms from hyperscale cloud providers. 
+We identified over 50 FaaS solutions within the ecosystem. The vast majority are open source and many are supported by a pre-existing business like Platform9’s Fission. As the market matures we expect to see an increasing number of enterprise-grade offerings beyond FaaS platforms from hyperscale cloud providers.
 
 Here are the listings. They need URLs to make them valuable
 
@@ -31,7 +31,7 @@ Python-λ: Library for developing and deploying serverless Python code in AWS La
 Standard Library (StdLib): Standard library for functions to help turn them into infinitely scalable, self-healing web services
 
 # Security
-PureSec: Security built for severless architectures
+[PureSec](https://www.puresec.io/): Security built for serverless architectures
 
 Snyk: Finds and fixes vulnerabilities in dependencies
 
@@ -87,7 +87,8 @@ Sparta: Go framework for AWS Lambda microservices
 Squeezer: Framework designed to help developers to get a better architecture on serverless zero-administration compute platforms
 
 Zappa: Helps developers build and deploy server-less Python applications on AWS Lambda and API Gateway
-Platforms
+
+# Platforms
 
 AWS Lambda: Platform that less developers run code without provisioning or managing servers
 
