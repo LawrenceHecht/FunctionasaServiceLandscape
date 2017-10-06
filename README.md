@@ -22,7 +22,7 @@ Node Lambda: Command line tool to locally run and deploy your node.js applicatio
 
 Stackery: Serverless operations console that provides automation, predictable performance, and operational control
 
-#Libraries
+# Libraries
 
 FDK: Node.js library to improve developer experience developing Serverless applications
 
