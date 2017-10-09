@@ -64,13 +64,7 @@ This text is new and wasn't written by Astasia.
 
 [Lambda-restify](https://www.npmjs.com/package/lambda-restify): Restify/expressjs like interface for AWS Lambda with API Gateway
 
-[LeverOS](http://www.leveros.com): Open-source cloud platform that allows teams to build and deploy microservice-oriented backends
-
-[Nuclio](https://github.com/nuclio/nuclio): High-performance serverless event and data processing framework
-
-[OpenFaaS](https://github.com/alexellis/faas): Serverless solution for Docker and Kubernetes
-
-[Red Hat Funktion](https://github.com/fabric8io/funktion): Lambda style event-based programming model for Kubernetes
+[Pivotal Spring Cloud Function](http://cloud.spring.io/spring-cloud-function): Support a uniform programming model across serverless providers, as well as the ability to run standalone (locally or in a PaaS)
 
 [Scar](https://github.com/grycap/scar): Framework to transparently execute containers out of Docker images in AWS Lambda
 
@@ -92,9 +86,9 @@ This text is new and wasn't written by Astasia.
 
 [Auth0 Webtask](https://webtask.io/): Platform written in Node.js
 
-[~~Bitnami~~ Kubeless](http://kubeless.io): Kubernetes native serverless platform
-
 [Distribyte](https://distribyte.net/): Serverless platform (stealth)
+
+[Fn Project](http://fnproject.io):Serverless app platform empowering enterprises to reliably scale their Docker-based jobs on any cloud, public, private, or on-premises. An Oracle led project based on work from the team behind Iron.io.
 
 [Galactic Fog](http://www.galacticfog.com/): Container management and serverless implementation
 
@@ -102,11 +96,19 @@ This text is new and wasn't written by Astasia.
 
 [IBM Cloud Function](https://www.ibm.com/cloud-computing/bluemix/openwhisk): FaaS based on Apache OpenWhisk
 
-[Iron.IO](https://github.com/iron-io/functions): Serverless app platform empowering enterprises to reliably scale their Docker-based jobs on any cloud, public, private, or on-premises
+[Iron.io](https://github.com/iron-io/functions): Serverless app platform empowering enterprises to reliably scale their Docker-based jobs on any cloud, public, private, or on-premises
+
+[Kubeless](http://kubeless.io): Kubernetes native serverless platform. Bitnami employees initiated the project.
+
+[LeverOS](http://www.leveros.com): Open-source cloud platform that allows teams to build and deploy microservice-oriented backends
 
 [Microsoft Azure Functions](https://azure.microsoft.com/en-us/services/functions/): Event-driven serverless compute experience
 
 [Nano Lambda](http://nano-lambda.com/): Automated compute service which runs and scales your micro-services
+
+[Nuclio](https://github.com/nuclio/nuclio): High-performance serverless event and data processing framework> Iguazio developers are leading this project.
+
+[OpenFaaS](https://github.com/alexellis/faas): Serverless solution for Docker and Kubernetes
 
 [OpenLambda](https://open-lambda.org/): Apache-licensed serverless computing project, written in Go and based on Linux containers.
 
@@ -117,5 +119,9 @@ This text is new and wasn't written by Astasia.
 [Platform9 Fission](http://fission.io/): Open-source, serverless platform built on Kubernetes with a focus on developer productivity and high performance
 
 [PubNub Blocks](https://www.pubnub.com/): Serverless environment to execute functions on the edge, transforming, enriching, and ﬁltering messages as they route through the PubNub network
+
+[Syncano](https://syncano.io): Serverless application platform to build powerful real-time apps
+
+[Red Hat Funktion](https://github.com/fabric8io/funktion): Lambda style event-based programming model for Kubernetes
 
 [Weblab.io](https://weblab.io/): Platform to run functions that are self-heal and scale as needed
