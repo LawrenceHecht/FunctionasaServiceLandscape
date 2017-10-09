@@ -106,7 +106,7 @@ This text is new and wasn't written by Astasia.
 
 [Nano Lambda](http://nano-lambda.com/): Automated compute service which runs and scales your micro-services
 
-[Nuclio](https://github.com/nuclio/nuclio): High-performance serverless event and data processing framework> Iguazio developers are leading this project.
+[Nuclio](https://github.com/nuclio/nuclio): High-performance serverless event and data processing framework. Iguazio developers are leading this project.
 
 [OpenFaaS](https://github.com/alexellis/faas): Serverless solution for Docker and Kubernetes
 
