@@ -1,7 +1,7 @@
 # FunctionasaServiceLandscape
 FaaS Landscape
 
-This text is new and wasn't written by Astatia.
+This text is new and wasn't written by Astasia.
 
 # Tools
 [Clay](https://www.clay.run/): Creates serverless HTTPS functions instantly
